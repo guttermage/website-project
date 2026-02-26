@@ -1,4 +1,9 @@
-p{
-    border: 2px solid powderblue;
-    padding 30px;
+body{
+    background-color: black;
+}
+
+* {
+    color: #00FF41;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 0 0 5px #00FF41, 0 0 10px #008F11;
 }
